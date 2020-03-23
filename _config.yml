@@ -10,13 +10,12 @@ permalink:        pretty
 title:            Personal Blog
 tagline:          'Deepshikha'
 description:      'My GitHub Repo <a href="https://github.com/Deepshikha05" target="_blank">Here</a>'
-url:              http://hyde.getpoole.com
+url:              https://github.com/Deepshikha05
 baseurl:          https://deepshikha05.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+  name:           'Deepshikha Sethi'
+  url:            https://github.com/Deepshikha05
 paginate:         5
 
 # Custom vars
